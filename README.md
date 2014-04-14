@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Mysqli Essential DB Class](https://github.com/mrosama/Mysqli-Essential-DB-Class)
 
 Mysqli Essential DB Class This class can access MySQL databases with mysql and mysqli.
@@ -38,3 +39,9 @@ want to write about your project.
 ## Contributing
 
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md).
+=======
+Mysqli-Essential-DB-Class
+=========================
+
+DBMysqli
+>>>>>>> origin/master
