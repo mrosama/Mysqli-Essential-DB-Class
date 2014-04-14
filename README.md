@@ -1,4 +1,4 @@
-# [Mysqli Essential DB Class](http://www.phpclasses.org/package/7988-PHP-Access-MySQL-databases-with-mysql-and-mysqli.html)
+# [Mysqli Essential DB Class](https://github.com/mrosama/Mysqli-Essential-DB-Class)
 
 Mysqli Essential DB Class This class can access MySQL databases with mysql and mysqli.
 It comes with a factory class that can create objects of driver classes to access a MySQL database
@@ -6,15 +6,15 @@ using either the mysql or mysqli extensions.
 
 The drivers can establish connections, execute queries, retrieve the query results into arrays, display query results in paginated listings, execute backup procedures and serve the backup file for download.
 
-* Source: [https://github.com/h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)
-* Homepage: [http://www.phpclasses.org/package/7988-PHP-Access-MySQL-databases-with-mysql-and-mysqli.html](http://www.phpclasses.org/package/7988-PHP-Access-MySQL-databases-with-mysql-and-mysqli.html)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+* Source: [https://github.com/mrosama/Mysqli-Essential-DB-Class](https://github.com/mrosama/Mysqli-Essential-DB-Class)
+* Email: [osama_eg@outlook.com](osama_eg@outlook.com)
+
 
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/h5bp/mobile-boilerplate.git` -
-or [download it](https://github.com/h5bp/mobile-boilerplate/zipball/master)
+Clone the git repo - `git clone git://github.com/mrosama/Mysqli-Essential-DB-Class.git` -
+or [download it](https://github.com/mrosama/Mysqli-Essential-DB-Class/archive/master.zip)
 
 
 ## Features
