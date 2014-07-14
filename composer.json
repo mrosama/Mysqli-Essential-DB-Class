@@ -1,2 +1,19 @@
 {
+    "name": "d-bmysql/d-bmysql",
+    "type": "library",
+    "description": "Mysqli Essential DB Class This class can access MySQL databases with mysql and mysqli. It comes with a ",
+    "authors": [
+        {
+            "name": "Osama",
+            "email": "osama_eg@outlook.com"
+        }
+        
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": ["Database.php"]
+    },
+    "license": "GPL-3.0"
 }
