@@ -9,7 +9,13 @@ The drivers can establish connections, execute queries, retrieve the query resul
 * Source: [https://github.com/mrosama/Mysqli-Essential-DB-Class](https://github.com/mrosama/Mysqli-Essential-DB-Class)
 * Email: [osama_eg@outlook.com](osama_eg@outlook.com)
 
+### Composer
 
+	{
+		"require": {
+			"d-bmysql/d-bmysql": "dev-master"
+		}
+	}
 
 ## Quick start
 
